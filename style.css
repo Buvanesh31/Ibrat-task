@@ -84,7 +84,7 @@
 .navbar {
   position: absolute;
   height: 55px;
-  margin-top: 1px;
+  margin-top: 4px;
   margin-left: 30%;
   top: 1%;
   width: 36%;
@@ -129,10 +129,10 @@
   background-color: rgb(250, 250, 250);
   border: none;
   color: rgb(26, 20, 20);
-  margin-top: 1px;
+  margin-top: 14px;
   margin-right: 2px;
   position: absolute;
-  top: 2.6%;
+  top: 10%;
   right: 2%;
   font-size: 16px;
   cursor: pointer;
